@@ -1,67 +1,133 @@
-# Benevolence Retail Group Ltd - FP&A Budget vs Actual Analysis
+# Benevolence Retail Group Ltd. - Integrated 3-Statement Financial Model
 
-## Project Overview
+### Project Overview & Business Case
 
-This project is a 12-month FP&A and management accounting model created for Benevolence Retail Group Ltd, a fictional retail company.
+This repository contains an integrated 3-statement financial model
+developed in Microsoft Excel for **Benevolence Retail Group Ltd.**, a
+fictional UK retail company. The model uses FY2026 budget and actual
+performance as its starting point and forecasts the company's financial
+performance from 2027 to 2032.
 
-I created this project as part of my Accounting and Finance graduate portfolio to demonstrate practical skills in budgeting, forecasting, variance analysis, financial modelling and management reporting using Excel.
+The primary objective of this project is to translate Benevolence's
+operating performance into a linked financial forecast. The model
+provides a structured way to analyse revenue growth, profitability,
+working capital, cash generation and the company's capital structure.
 
-All financial data used in this project is fictional and has been created solely for portfolio purposes.
+The intended audience for the analysis would be a finance manager or
+management team using the model to support budgeting, forecasting, cash
+planning and wider financial decision-making.
 
-## Project Objectives
+------------------------------------------------------------------------
 
-The project was created to:
+### Executive Summary: Key Insights from the Model
 
-- Prepare a 12-month financial budget
-- Compare actual performance against budget
-- Analyse favourable and unfavourable variances
-- Assess revenue, expenses and profitability
-- Forecast cash flow
-- Perform break-even analysis
-- Prepare monthly management accounts
-- Present key financial information through a KPI dashboard
+The model projects continued profitable growth for Benevolence based on
+the assumptions used in the forecast.
 
-## Excel Model
+-   **FY2026 Performance:** Actual revenue of **£861,500** exceeded the
+    **£846,000** budget by **£15,500**. Actual net income was
+    **£310,700**, compared with a budget of **£303,000**.
+-   **Revenue Growth:** Revenue is projected to increase from **£861,500
+    in FY2026** to approximately **£1.19m by 2032**, based on annual
+    growth assumptions of 5.0%-6.0%.
+-   **Profitability:** Operating profit increases from **£310,700 in
+    FY2026** to approximately **£428,000 by 2032** under the model
+    assumptions.
+-   **Cash Generation:** Cash and equivalents increase from **£350,000
+    in FY2026** to approximately **£2.12m by 2032**, reflecting the
+    model's strong forecast profitability and cash generation.
+-   **Balance Sheet Strength:** The model maintains a balanced Balance
+    Sheet throughout the forecast period, with the accounting equation
+    remaining in balance.
 
-The workbook contains the following sections:
+------------------------------------------------------------------------
 
-- **Data** - Monthly budget and actual financial data
-- **Sales Budget** - Budgeted sales compared with actual performance
-- **Expense Budget** - Budgeted expenses compared with actual expenses
-- **Cash Flow Forecast** - Monthly cash inflows, outflows and closing cash
-- **Profit & Loss** - Revenue, expenses, net income and profit margin
-- **Break-even Analysis** - Contribution and break-even calculations
-- **Budget vs Actual** - Monthly financial variance analysis
-- **Management Accounts** - Monthly summary of financial performance
-- **KPI Dashboard** - Visual summary of key financial results and trends
+### Tools & Technologies
 
-## FY2026 Performance
+-   **Primary Tool:** Microsoft Excel
 
-| KPI | Budget | Actual | Variance |
-| --- | ---: | ---: | ---: |
-| Revenue | £846,000 | £861,500 | £15,500 Favourable |
-| Expenses | £543,000 | £550,800 | £7,800 Unfavourable |
-| Net Income | £303,000 | £310,700 | £7,700 Favourable |
+------------------------------------------------------------------------
 
-Actual revenue finished approximately 1.8% above budget, while expenses were approximately 1.4% above budget.
+### Model Structure & Methodology
 
-Despite higher expenses, Benevolence Retail Group Ltd generated actual net income of £310,700 compared with budgeted net income of £303,000.
+This is an integrated 3-statement model where the **Income Statement,
+Balance Sheet and Cash Flow Statement are dynamically linked**.
 
-## Skills Demonstrated
+The model is balanced across the forecast period, with a balance check
+confirming that **Assets = Liabilities + Equity**.
 
-- Microsoft Excel
-- FP&A
-- Budgeting and Forecasting
-- Management Accounting
-- Budget vs Actual Analysis
-- Variance Analysis
-- Profit & Loss Analysis
-- Cash Flow Forecasting
-- Break-even Analysis
-- Management Reporting
-- KPI Dashboard Creation
-- Financial Data Interpretation
+**Key Drivers & Assumptions:**
 
-## Disclaimer
+1.  **Income Statement:** Revenue is forecast using annual growth
+    assumptions ranging from 5.0% to 6.0%. Cost of Goods Sold and
+    Operating Expenses are projected using margins based on the FY2026
+    operating structure.
 
-Benevolence Retail Group Ltd is a fictional company. All company information and financial figures used in this project are synthetic and were created solely to demonstrate practical accounting and finance skills.
+2.  **Balance Sheet:** Accounts Receivable, Inventory, Accounts Payable
+    and other working-capital balances are projected in relation to
+    revenue or Cost of Goods Sold. PP&E and Intangible Assets are linked
+    to capital expenditure, purchases, depreciation and amortisation
+    assumptions.
+
+3.  **Cash Flow Statement:** The Cash Flow Statement is linked to Net
+    Income and movements in Balance Sheet accounts. Operating, investing
+    and financing activities determine the movement in cash for each
+    forecast year.
+
+4.  **Debt & Cash Position:** Long-term debt is held at the modelled
+    level during the forecast period, while cash acts as the key output
+    linking the Cash Flow Statement back to the Balance Sheet.
+
+------------------------------------------------------------------------
+
+### Strategic Recommendations (Based on Model Output)
+
+The model's output highlights several financial discussion points for
+Benevolence's management:
+
+1.  **Capital Deployment Strategy:** The projected increase in cash to
+    approximately **£2.12m by 2032** suggests that management could
+    evaluate how excess cash should be deployed, including reinvestment
+    in the business, expansion, debt reduction or shareholder
+    distributions.
+
+2.  **Cost Management:** Although FY2026 revenue exceeded budget, actual
+    expenses were **£7,800 above budget**. Management should continue
+    monitoring cost drivers to ensure revenue growth translates into
+    sustainable profitability.
+
+3.  **Working Capital Management:** As the business grows, Accounts
+    Receivable, Inventory and Accounts Payable also increase. Monitoring
+    these balances will be important to maintain efficient cash
+    conversion.
+
+------------------------------------------------------------------------
+
+### Future Improvements & Learning Goals
+
+This project focuses on developing the mechanics of an integrated
+financial model. Future enhancements could include:
+
+-   **Build a DCF Valuation Model:** Use the financial projections to
+    calculate Unlevered Free Cash Flow and estimate the fictional
+    company's enterprise and equity value.
+-   **Incorporate Ratio-Driven Projections:** Use DSO, DIO and DPO
+    assumptions to forecast working-capital accounts in greater detail.
+-   **Add Scenario & Sensitivity Analysis:** Introduce Base Case, Upside
+    Case and Downside Case scenarios and test the impact of changes in
+    revenue growth, margins and costs.
+-   **Develop More Detailed Revenue Drivers:** Forecast revenue by
+    product category, sales channel or store rather than relying only on
+    top-line growth assumptions.
+
+This would allow the model to develop from a core 3-statement forecast
+into a more detailed FP&A and valuation tool.
+
+------------------------------------------------------------------------
+
+### Disclaimer
+
+**Benevolence Retail Group Ltd. is a fictional company.** All company
+information, financial data and forecast assumptions used in this
+project are synthetic and were created solely for educational and
+portfolio purposes.
